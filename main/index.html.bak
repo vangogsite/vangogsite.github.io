@@ -1,0 +1,24 @@
+<html>
+ <head>
+    <meta charset="utf-8">
+    <a name="home">
+	<title>Ван Гог главная страница</title>
+	<link rel="stylesheet" type="text/css" href="css/css1.css">
+	<script src = "js/js1.js"></script>
+</head>
+<body>
+	<h1 align = "center">Винсент Ван Гог</h1>
+	<div class = "glmenu" align = "center">
+		<p class = "content"> Винсе́нт Ви́ллем Ван Гог — нидерландский художник-постимпрессионист,
+		чьи работы оказали вневременное влияние на живопись XX века.
+		За десять с небольшим лет он создал более 2100 произведений,
+		включая около 860 картин маслом. Среди них — портреты, автопортреты,
+		пейзажи, натюрморты и панно с изображением о ливковых деревьев,
+		кипарисов, полей пшеницы и подсолнухов.
+		При жизни был практически обойдён вниманием критиков.</p>
+		<a href = "html/biographiya.html"> <img id = "b" src = "img/biogr.png" onmouseenter = "hov('b')" onmouseleave = "uhov('b')"> </a>
+		<a href = "html/interestye_fakty.html"> <img id = "intf" src = "img/intfakty.png" onmouseenter = "hov('intf')" onmouseleave = "uhov('intf')"> </a>
+		<a href = "html/raboty.html"> <img id = "rb" src = "img/raboty.png" onmouseenter = "hov('rb')" onmouseleave = "uhov('rb')"> </a>
+	</div>
+</body>
+</html>
