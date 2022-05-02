@@ -114,8 +114,8 @@ function ch(a)
 		case 10:
 		{
 			kart.src = "../img/port_gashe.jpg";
-			podp.innerHTML = '"Едоки картофеля", 1885, Музей Винсента ван Гога, Амстердам, Нидерланды';
-			vrtex.innerHTML = '<a href = "https://artsandculture.google.com/streetview/van-gogh-museum-groundfloor/2QHwyv_Y6gueAw?sv_lng=4.8812837&sv_lat=52.3583553&sv_h=359.4874180373132&sv_p=-20.2067766122219&sv_pid=7N56CwMdyWwjnjhLABhSmA&sv_z=0.7654243595088517" target="_blank">(кликните для виртуальной экскурсии)</a>';
+			podp.innerHTML = '"Портрет доктора Гаше", 1890, частная коллекция';
+			vrtex.innerHTML = 'Экскурсия невозможна';
 			break;
 		}
 	}
