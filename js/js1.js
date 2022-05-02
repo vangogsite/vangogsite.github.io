@@ -100,7 +100,7 @@ function ch(a)
 		case 8:
 		{
 			kart.src = "../img/noch2.jpeg";
-			podp.innerHTML = '"Ирисы", 1889, Музей Гетти, Лос-Анджелес, США';
+			podp.innerHTML = "'Звёздная ночь над Роной', 1888, Музей д'Орсе, Париж, Франция";
 			vrtex.innerHTML = '<a href = "https://www.musee-orsay.fr/en" target="_blank">сайт музея (картина временно недоступна в музее)</a>';
 			break;
 		}
